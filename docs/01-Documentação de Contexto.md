@@ -8,7 +8,7 @@ Dizemos então que "Infodemia" representa, assim, um fenômeno informacional nov
  
 ## Objetivos
 
-Desta forma, o presente trabalho se propõe a centralizar em uma única plataforma, candidatos e políticos eleitos, para os candidatos, se são novos no cenário político ou se já foram eleitos alguma vez, o que estes tem feito no governo, projetos que tem sido favoráveis e/ou contra, gastos divulgados no portal da transparência. A princípio, trabalharemos com os governantes da esfera federal (excutivo), ou seja, presidete e candidatos à presidência da república, futuramente emcorporaremos os demais níveis (legislativo e judiciário) nas esferas estaduais e municipais.
+Desta forma, o presente trabalho se propõe a centralizar em uma única plataforma, candidatos e políticos eleitos, para os candidatos, se são novos no cenário político ou se já foram eleitos alguma vez, o que estes tem feito no governo, projetos que tem sido favoráveis e/ou contra, gastos divulgados no portal da transparência. A princípio, trabalharemos com os governantes da esfera federal (executivo), ou seja, presidente e candidatos à presidência da república, futuramente encorporaremos os demais níveis (legislativo e judiciário) nas esferas estaduais e municipais.
 
 ## Objetivos Especificos
 Como objetivos específicos, podemos ressaltar: 
