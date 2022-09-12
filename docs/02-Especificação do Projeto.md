@@ -1,16 +1,14 @@
 # Especificações do Projeto
+### Personas
+
+| `Persona` | `Idade` | `Descrição` | `Fontes de informação utilizados` | `Motivações` | `Frustrações`  |  `Hobbies` |
+|:-----------:|:---------:|:-------------:|:---------------------------------:|:--------------:|:----------------:|:------------:|
+|Raimundo Mota|18|Estudante do ensino médio. Acabou de tirar o título de eleitor.|Instagram, Facebook, Twitter, Youtube|Verificcar como cada candidato se posiciona em relação às políticas de quotas raciais para ingresso na universidade.| Dificuldade de realmente conhecer os candidatos em ano eleitoral, já que tanto candidatos se maqueiam, quanto oposição dissemina fake news.|Filmes e séries, academia|
+|Daniela Ferreira|34| Professora da rede pública estadual de Minas Gerais|Instagram, Portal de notícias, TV|Saber como os candidatos que ela pretende votar, se posicionam em relação ao piso salarial|Excesso de desinformação e notícias falsas, brigas em grupos de família.|Ler e mexer na Internet|
+|Benício Almada |61|Policial Civil aposentado, se auto-intitulo como cidadão conservador de direita.|WhatsApp, rádio, TV, facebook e portais de notícias|Encontrar candidatos do legislativo que compartilhem da mesma pauta política e apoiem seus candidatos do executivo.|	Acredita que muitos (deputados e senadores) eleitos na última eleição por supostamente apoiarem o presidente da república, mudaram de posicionamento após estarem no poder.|Pescar, sair pra comer|
+|Jaqueline de Jesus|27|Desempregada. Perdeu o emprego durante a pandemia e agora precisa de auxílio do governo para manter a família.|TV e WhatsApp| Ter acesso a informação confiável sobre os candidatos, e como eles pretendem reduzir a taxa de desemprego.|Recebe muita notícia no Whatsapp mas não sabe o que é verdade ou mentira|Assistir TV e passear com os filhos|
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
-## Personas
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -79,30 +77,31 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir a criação de contas, dentro do site e do App. | ALTA | 
+|RF-002| Ter uma página para a listagem dos candidatos.   | ALTA |
+|RF-003| Ter uma página para a listagem dos eleitos e membros ativos dos 3 poderes .  | ALTA |
+|RF-004| Ter um link para o plano de governo de cada candidatos a partir do seu regisstro.   | ALTA |
+|RF-005| Informar se o candidato já ocupou algum cargo no governo.   | ALTA |
+|RF-006| Listar, dentro de cada candidato e membro ativo do governo, projetos de lei propostos por eles, caso eles já tenham proposto algum. | ALTA |
+|RF-007| Ter uma página com todas as leis, decretos, resoluções ... já aprovadas (Resumo e link para o arquivo oficial no portal oficial do governo). | ALTA|
+|RF-008| Na página de legislações. listar todos que votaram a favor e contra   | MEDIA |
+|RF-009| Na página principal, permitir que o usuário pesquise dinamicamente, termos que deseja buscar |MEDIA|
+|RF-010| Permitir que o usuário crie alertas por localidade, candidatos ou membros ativos, assunto que deseja receber notificação | BAIXA |
+|RF-011| Cada candidato ou membro ativo do governo, precisa ter sua própria página, com informações do mesmo.   | ALTA |
+|RF-012| Ter uma página de fake check. com notícias atuais.   | MÉDIA |
+|RF-013| Na página de fake check, rotular as notícias como Verdade ou Mentira | MEDIA |
+|RF-014| Justificar, na pagina de fake check, porque a informação foi rotulada como verdade ou mentira  | ALTA |
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Deve existir uma padronização na navegação tanto no Mobile quando no Web. | ALTA | 
+|RNF-002| O Site deve atender aos requisitos de SEO, aplicados pelo Google. |  MÉDIA |
+|RNF-003| O App e a aplicação Web, devem compartilhar as mesmas informações de login e cadastro de usuários. |  ALTA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -111,14 +110,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+       |
 ## Diagrama de Casos de Uso
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
@@ -171,3 +163,22 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
 ![Orçamento](img/02-orcamento.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
