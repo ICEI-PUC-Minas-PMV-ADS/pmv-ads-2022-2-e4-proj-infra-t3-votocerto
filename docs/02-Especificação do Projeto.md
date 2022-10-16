@@ -48,15 +48,15 @@ Em época de eleições, é comum que os meios de comunicação dediquem-se a pu
 
 A proposta do Vote Certo é centralizar em uma única plataforma, candidatos e políticos eleitos, para os candidatos, se são novos no cenário político ou se já foram eleitos alguma vez, o que estes tem feito no governo, projetos que tem sido favoráveis e/ou contra, gastos divulgados no portal da transparência. Além disso o sistema também contribuirá para evitar a disseminação de mentiras e a desinformação, voltado para checagens, fontes ouvidas e veículo de origem.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Cenário atual
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+O fluxograma abaixo ilustra o cenário atual deste processo:
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Cenário Vote Certo
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+O fluxograma abaixo ilustra o cenário utilizando a aplicação Vote Certo como ferramenta:
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
