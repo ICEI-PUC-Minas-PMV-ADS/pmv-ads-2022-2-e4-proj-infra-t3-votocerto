@@ -42,11 +42,11 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Em época de eleições, é comum que os meios de comunicação dediquem-se a publicar matérias sobre as mais variadas fórmulas que o eleitor deve usar na hora de decidir em quem votar. Para obter informações sobre os candidatos, uma saída é ficar atento a notícias, jornais, revistas, propagandas eleitorais veiculadas no rádio e na televisão, pesquisas e debates entre os concorrentes. Dessa forma, é possível saber se o candidato já esteve envolvido em algum escândalo, o que ele realizou em mandatos anteriores e avaliar suas propostas.   
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta do Vote Certo é centralizar em uma única plataforma, candidatos e políticos eleitos, para os candidatos, se são novos no cenário político ou se já foram eleitos alguma vez, o que estes tem feito no governo, projetos que tem sido favoráveis e/ou contra, gastos divulgados no portal da transparência. Além disso o sistema também contribuirá para evitar a disseminação de mentiras e a desinformação, voltado para checagens, fontes ouvidas e veículo de origem.
 
 ### Processo 1 – NOME DO PROCESSO
 
