@@ -89,8 +89,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-010| Permitir que o usuário crie alertas por localidade, candidatos ou membros ativos, assunto que deseja receber notificação | BAIXA |
 |RF-011| Cada candidato ou membro ativo do governo, precisa ter sua própria página, com informações do mesmo.   | ALTA |
 |RF-012| Ter uma página de fake check. com notícias atuais.   | MÉDIA |
-|RF-013| Na página de fake check, rotular as notícias como Verdade ou Mentira | MEDIA |
-|RF-014| Justificar, na pagina de fake check, porque a informação foi rotulada como verdade ou mentira  | ALTA |
 
 
 ### Requisitos não Funcionais
