@@ -128,7 +128,7 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/Matriz de Rastreabilidade.PNG)
+![Exemplo de matriz de rastreabilidade](img/matriz.PNG)
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
@@ -161,7 +161,7 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 Dentro deste contexto, foi elaborado um orçamento estimado para o desenvolimento do projeto Vote Certo, podendo sofrer alterações.
 
-![Orçamento](img/Gestão de Orçamento.PNG)
+![Orçamento](img/orcamento.PNG)
 
 
 
