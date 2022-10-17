@@ -52,7 +52,7 @@ A proposta do Vote Certo é centralizar em uma única plataforma, candidatos e p
 
 O fluxograma abaixo ilustra o cenário atual deste processo:
 
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1](img/Fluxograma1.PNG)
 
 ### Processo 2 – Cenário Vote Certo
 
